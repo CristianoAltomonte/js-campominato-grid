@@ -13,7 +13,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    width: 90vh;
+    width: 80vh;
     margin: 0 auto;
 }
 
@@ -28,5 +28,3 @@ body{
 .active{
     background-color: coral;
 }
-
-
